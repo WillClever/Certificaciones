@@ -153,7 +153,7 @@ Este documento está diseñado para que podamos estudiar y prepararnos para la c
 ## 🛤️ Rutas de Aprendizaje
 
 ### 🟢 Nivel Principiante
-1. Familiarízate con los conceptos básicos en la [Guía de Inicio](https://docs.github.com/en/actions/quickstart).
+1. [Guía de Inicio](https://docs.github.com/en/actions/quickstart).
 2. Aprende a escribir tu primer flujo de trabajo.
 
 ### 🟡 Nivel Intermedio
@@ -169,9 +169,9 @@ Este documento está diseñado para que podamos estudiar y prepararnos para la c
 ## 💡 Tips para el Estudio
 
 ### 🚀 Consejos Prácticos
-1. **Practica regularmente:** Implementa flujos pequeños en tus proyectos.
-2. **Explora ejemplos reales:** Busca en repositorios como [Awesome Actions](https://github.com/sdras/awesome-actions).
-3. **Participa en comunidades:** Únete a foros como [GitHub Community](https://github.community/).
+1. *.
+2. [Awesome Actions](https://github.com/sdras/awesome-actions).
+3. 
 
 ### 📖 Temas para Dominar
 1. **Uso de `GITHUB_TOKEN`:** Aprende cómo funciona para manejar autenticación en flujos.
@@ -204,4 +204,4 @@ Protege información sensible como claves API con secretos encriptados.
 
 ---
 
-🌟 ¡Buena suerte en tu preparación para la certificación! 🌟
+🌟 ¡Exitos Parceros! 🌟
