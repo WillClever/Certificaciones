@@ -4,6 +4,13 @@
 Este documento está diseñado para que podamos estudiar y prepararnos para la certificación en GitHub Actions. ¡Todo lo que use para la certifaicion en GitHub Actions! 🚀
 
 ---
+## Recomiendo mucho inciar a hacer los examenes de prueba aqui, recorodar que son 75 preguntas
+- 75 preguntas
+- 60 son calificables
+- 15 son de prueba para github
+- se pasa con el 70%
+- https://ghcertified.com/practice_tests/advanced_security/?questions=116
+
 
 ## 📝 Preguntas y Respuestas
 
