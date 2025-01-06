@@ -9,7 +9,7 @@ Este documento está diseñado para que podamos estudiar y prepararnos para la c
 - 60 son calificables
 - 15 son de prueba para github
 - se pasa con el 70%
-- [GITHUB ACTIONS EXAM TEST](https://ghcertified.com/practice_tests/actions/?questions=75)
+- [GITHUB ACTIONS EXAM TEST](https://ghcertified.com/practice_tests/actions/?questions=75) https://ghcertified.com/practice_tests/actions/?questions=75
 
 
 ## 📝 Preguntas y Respuestas
